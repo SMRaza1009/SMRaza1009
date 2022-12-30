@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SMRaza1009
-- 👀 I’m interested in Deep Learning | Python Development | Image Processing | Computer Vision | C# ASP .NET MVC
-- 🌱 I’m currently learning Python Full Stack Development | Deep Learning | C# ASP .NET MVC
-- 💞️ I’m looking to collaborate on Deep Learning | Image Processing | Computer Vision | Python Development | C# ASP .NET MVC
+- 👀 I’m interested in Evolving Technology
+- 🌱 I’m currently learning Python Full Stack Development | Machine Learning | Deep Learning | Data Engineering
+- 💞️ I’m looking to collaborate on AI | DL | ML | Python Development | Data Engineering
 - 📫 How to reach me iamraza1998@gmail.com
 
 <!---
