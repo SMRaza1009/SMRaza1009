@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SMRaza1009
 - 👀 I’m interested in Evolving Technology
-- 🌱 I’m currently learning Python Full Stack Development | Machine Learning | Deep Learning | Data Engineering
+- 🌱 I’m currently learning Python Development | Machine Learning | Deep Learning | Data Engineering
 - 💞️ I’m looking to collaborate on AI | DL | ML | Python Development | Data Engineering
-- 📫 How to reach me iamraza1998@gmail.com
+- 📫 How to reach me syedraza98@kumoh.ac.kr or iamraza1998@gmail.com
 
 <!---
 SMRaza1009/SMRaza1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
