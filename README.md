@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SMRaza1009
 - 👀 I’m interested in Evolving Technology
-- 🌱 I’m currently learning Python Development | Machine Learning | Deep Learning | Data Engineering
-- 💞️ I’m looking to collaborate on AI | DL | ML | Python Development | Data Engineering
+- 🌱 I’m currently learning Python Development | Machine Learning | Deep Learning 
+- 💞️ I’m looking to collaborate on AI | DL | ML | Python Development
 - 📫 How to reach me syedraza98@kumoh.ac.kr or iamraza1998@gmail.com
 
 <!---
